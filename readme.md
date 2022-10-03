@@ -2,4 +2,4 @@
 
 ![preview](./Assets/preview.png)
 
-Clique aqui para acessar [https://emanuelcicero.github.io/NLW-Explore/]
+[Clique aqui para acessar] (https://emanuelcicero.github.io/NLW-Explore/)
