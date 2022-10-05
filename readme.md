@@ -1,4 +1,4 @@
-# Projeto NLW eSports - Trila Explore
+# Projeto NLW eSports - Trilha Explore
 
 ![preview](./Assets/preview.png)
 
